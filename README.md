@@ -2,6 +2,8 @@
 
 **Notflix** es un proyecto de pruebas estable que simula una plataforma de reproducción de videos. Este proyecto está diseñado para reproducir archivos de video en formato MP4. Es una aplicación web simple que permite a los usuarios ver una lista de videos disponibles y reproducirlos en un reproductor de video integrado.
 
+<img src="images/test.png.png" width="350">
+
 ## Características
 
 - **Reproducción de videos**: Reproduce archivos de video en formato MP4.
@@ -27,6 +29,8 @@
 3. Inicia el servidor de la página web
 
     http-client
+
+<img src="images/terminal.png.png" width="350">
 
 ## Estructura del proyecto
 
