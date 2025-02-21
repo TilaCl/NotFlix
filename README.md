@@ -30,7 +30,7 @@
 
     http-client
 
-<img src="images/terminal.png" width="350">
+<img src="images/terminal.png" width="550">
 
 ## Estructura del proyecto
 
